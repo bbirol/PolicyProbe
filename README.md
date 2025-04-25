@@ -56,13 +56,6 @@ Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; 
 Checking: Strict-Transport-Security... ✓ Present
 Checking: Content-Security-Policy... ✓ Present
 
-+--------------------------+--------+-----------------+
-| Header                   | Weight | Status          |
-+--------------------------+--------+-----------------+
-| Strict-Transport-Security | 2.0    | ✓ Present      |
-| Content-Security-Policy   | 3.0    | ✓ Present      |
-+--------------------------+--------+-----------------+
-
 [+] Risk Assessment:
 → Weighted Protection Score: 8.00/10
 [~] Good: Minor issues found.
