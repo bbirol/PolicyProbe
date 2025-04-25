@@ -45,7 +45,7 @@ Install the required libraries using pip:
 
 
 
-#💻 Example Output
+# 💻 Example Output
 
 [+] Starting HTTP Headers Analysis for: https://example.com
 
